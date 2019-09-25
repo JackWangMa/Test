@@ -21,6 +21,9 @@ public class TestPageHelper {
 		ApplicationContext application = new ClassPathXmlApplicationContext("classpath:spring/applicationContext-*.xml");
 		
 		
+		
+		
+		
 		//从spring容器中获得Mapper的代理对象
 		TbItemMapper mapper = applicationContext.getBean(TbItemMapper.class);
 		TbItemMapper mapp = applicationContext.getBean(TbItemMapper.class);
