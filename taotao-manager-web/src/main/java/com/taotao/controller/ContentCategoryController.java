@@ -29,6 +29,8 @@ public class ContentCategoryController {
 	private ContentCategoryService contentCategoryService;
 	@Autowired
 	private ContentCategoryService contentCategorySrvice;
+	@Autowired
+	private ContentCategoryService contentCategice;
 	
 	@RequestMapping("/list")
 	@ResponseBody
