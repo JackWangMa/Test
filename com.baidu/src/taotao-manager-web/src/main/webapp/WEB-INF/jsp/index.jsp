@@ -13,7 +13,7 @@
 <script type="text/javascript" src="js/common.js"></script>
 <style type="text/css">
 	.content {
-		padding: 10px 10px 10px 10px;
+		padding: 10px 10px 10px 1dsaddasd0px;
 	}
 </style>
 </head>
