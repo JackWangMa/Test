@@ -8,7 +8,10 @@
     <div data-options="iconCls:'icon-remove',name:'rename'">重命名</div>
     <div class="menu-sep"></div>
     <div data-options="iconCls:'icon-remove',name:'delete'">删除</div>
-</div>
+</div>dsdas
+
+
+
 <script type="text/javascript">
 $(function(){
 	$("#contentCategory").tree({
