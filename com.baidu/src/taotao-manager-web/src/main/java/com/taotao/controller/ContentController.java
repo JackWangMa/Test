@@ -31,4 +31,10 @@ public class ContentController {
 		TaotaoResult result = contentService.insertContent(content);
 		return result;
 	}
+}public TaotaoResult insertContent(TbContent content) {
+	TaotaoResult result = contentService.insertContent(content);
+	return result;
+}public TaotaoResult insertContent(TbContent content) {
+	TaotaoResult result = contentService.insertContent(content);
+	return result;
 }
